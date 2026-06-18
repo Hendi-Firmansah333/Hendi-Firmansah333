@@ -1,8 +1,17 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e1b4b,50:4c1d95,75:7c3aed,100:06b6d4&text=HENDI%20FIRMANSAH&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Technology%20Student&descAlignY=60&animation=fadeIn"/>
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
 
 <div align="center">
 
@@ -10,7 +19,7 @@
 
 </div>
 
----
+
 
 # 👨‍💻 About Me
 
@@ -32,28 +41,6 @@ const hendi = {
     ]
 }
 ```
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://github.com/Hendi-Firmansah333" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/hendi-firmansah" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:hendifirmansah333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hendi_frmnsh" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
-
 ---
 
 # ⚡ Tech Arsenal
@@ -171,15 +158,18 @@ Financial management platform with AI receipt scanning.
 </div>
 
 ---
+###
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Hendi-Firmansah333/Hendi-Firmansah333/snake-output/snake.svg" alt="Snake animation" />
 
-<img src="https://komarev.com/ghpvc/?username=Hendi-Firmansah333&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+###
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hendi-Firmansah333/Hendi-Firmansah333/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hendi-Firmansah333/Hendi-Firmansah333/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hendi-Firmansah333/Hendi-Firmansah333/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
+###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:7C3AED"/>
 
-</div>
